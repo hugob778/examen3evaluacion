@@ -150,3 +150,10 @@ java -cp src Main
 - Commit final en main: `69826a9` (chore: merge develop into main)
 
 Fecha de entrega: 2026-06-01
+
+Nota: los artefactos compilados (.class) fueron eliminados del repositorio y se añadió un `.gitignore` para evitar que se rastreen en el futuro. Para reproducir la compilación localmente use:
+
+```powershell
+javac src\*.java
+java -cp src Main
+```
