@@ -1,0 +1,21 @@
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Build folders
+/bin/
+/build/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Archive / deliverable
+examen-entregable.zip
