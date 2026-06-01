@@ -143,3 +143,10 @@ java -cp src Main
 
 - Exportar `quickSave` a JSON real.
 - Añadir más estados y un sistema de eventos.
+
+## Enlaces de entrega
+
+- Release pública: https://github.com/hugob778/examen3evaluacion/releases/tag/v1.0.0
+- Commit final en main: `69826a9` (chore: merge develop into main)
+
+Fecha de entrega: 2026-06-01
